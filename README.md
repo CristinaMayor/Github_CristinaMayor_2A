@@ -1,4 +1,4 @@
 # Github_CristinaMayor_2A
 Mi primer repositorio to guapo.
-Cambio desde el local y desde el remoto
+Cambio desde el remoto
 
